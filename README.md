@@ -1,5 +1,7 @@
 # Cybernetics: A Complete System and Methodology
 
+> [中文版](readme_CN.md)
+
 This framework defines cybernetics as the science of **how systems define, maintain, and evolve their organizational identity through dynamic interaction with their environment, mediated by information and feedback**. It is organized into four concentric layers: a single foundational definition, three first principles, a seven-dimensional methodology toolkit, and one overarching principle of practice.
 
 ---
