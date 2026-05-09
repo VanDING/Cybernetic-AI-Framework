@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local config
+.claude/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
